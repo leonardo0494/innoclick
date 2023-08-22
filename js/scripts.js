@@ -321,5 +321,22 @@ jQuery(function ($) {
         submitMSG(true, ".sign-up-form-wrap");
     }
 
+    // IMask 
+
+    // TELEFONE HEADER
+    IMask(
+        document.getElementById('telefone'),
+        {
+          mask: '(00) 00000-0000'
+        }
+      );
+
+    // TELEFONE FOOTER
+    IMask(
+        document.getElementById('telefone-footer'),
+        {
+          mask: '(00) 00000-0000'
+        }
+      );
 
 }); // JQuery end

@@ -6,8 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- SEO Meta description -->
-    <meta name="description"
-          content="AgencyCo digital agency and marketing template. agency landing page template helps you easily create websites for your business, marketing landing page template form promotion and many more.">
+    <meta name="description" content="">
     <meta name="author" content="ThemeTags">
 
     <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
@@ -20,7 +19,7 @@
     <meta property="og:type" content="article"/>
 
     <!--title-->
-    <title>AgencyCo Digital Agency and Marketing Template</title>
+    <title>Innoclick</title>
 
     <!--favicon icon-->
     <link rel="icon" href="images/favicon.png" type="image/png" sizes="16x16">
@@ -90,8 +89,10 @@
             <div class="row align-items-center justify-content-between">
                 <div class="col-md-6 col-lg-6">
                     <div class="hero-content-left text-white mt-lg-0 mt-md-0 mt-5">
-                        <h1 class="text-white lead-head">Impulsione Seu Negócio com Estratégias Digitais de Alto Impacto</h1>
-                        <p class="lead">A presença digital é mais do que uma necessidade; é a chave para se destacar, construir relacionamentos duradouros com seus clientes e garantir a continuidade do seu negócio.</p>
+                        <!-- <h1 class="text-white lead-head">Impulsione Seu Negócio com Estratégias Digitais de Alto Impacto</h1>
+                        <p class="lead">A presença digital é mais do que uma necessidade; é a chave para se destacar, construir relacionamentos duradouros com seus clientes e garantir a continuidade do seu negócio.</p> -->
+                        <h1 class="text-white lead-head">Impulsione Seu Negócio com Estratégias Digitais de Alto Impacto através do Método P4: Planejamento, Criação, Execução e Medição.</h1>
+                        <p class="lead">Muito além de anúncios online, nosso objetivo é implementar estratégias que irão fazer o seu negócio escalar. Nosso foco é planejar, criar, executar e medir ideias para acelerar o crescimento do seu negócio de forma consistente em curto, médio e longo prazo.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-5">
@@ -102,18 +103,15 @@
                         <div class="message-box d-none">
                             <div class="alert alert-danger"></div>
                         </div>
-                        <form action="#" method="post" id="getQuoteFrm" name="getQuoteFrm" class="sign-up-form">
+                        <form action="enviar-email.php" method="post" class="sign-up-form">
                             <div class="form-group input-group">
-                                <input type="text" name="name" class="form-control" placeholder="Digite seu nome" required>
+                                <input type="text" name="nome" class="form-control" placeholder="Digite seu nome" required>
                             </div>
                             <div class="form-group input-group">
                                 <input type="email" name="email" class="form-control" placeholder="Digite seu e-mail" required>
                             </div>
                             <div class="form-group input-group">
-                                <input type="tel" name="subject" class="form-control" placeholder="Digite seu telefone" required>
-                            </div>
-                            <div class="form-group input-group">
-                                <textarea name="message" id="msg" class="form-control" placeholder="Escreva sua mensagem" cols="30" rows="4" required></textarea>
+                                <input type="tel" name="telefone" id="telefone" class="form-control" placeholder="Digite seu telefone" required>
                             </div>
                             <div class="form-group mb-0">
                                 <input type="submit" name="submit" id="submit" class="btn solid-btn btn-block" value="Enviar">
@@ -132,30 +130,39 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-md-9">
                     <div class="section-heading text-center mb-5">
-                        <h2>Por que sua empresa precisa da Innoclick?</h2>
+                        <h2>O que é o Método P4?</h2>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4 col-lg-4">
+                <div class="col-md-6 mb-md-4 col-lg-3">
+                    <div class="single-promo single-promo-hover text-center gray-light-bg p-5 h-100">
+                        <span class="ti-blackboard icon-md icon color-primary"></span>
+                        <h5>Planejamento</h5>
+                        <p>O planejamento estratégico é a etapa inicial e crítica para definir a direção e os objetivos do seu projeto ou iniciativa de marketing digital. Iremos definir objetivos, análise seu público, pesquisar seus concorrentes e definir um cronograma.</p>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-md-4 col-lg-3">
+                    <div class="single-promo single-promo-hover text-center gray-light-bg p-5 h-100">
+                        <span class="ti-ruler-pencil icon-md icon color-primary"></span>
+                        <h5>Criação</h5>
+                        <p>Esse estágio se concentra na produção de materiais de marketing que atraiam e envolvam o público-alvo de maneira eficaz. O pilar da Criação transforma estratégias em conteúdo tangível e atraente, capacitando sua marca a se conectar com o público de maneira profunda e impactante.</p>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-md-4 col-lg-3">
+                    <div class="single-promo single-promo-hover text-center gray-light-bg p-5 h-100">
+                        <span class="ti-settings icon-md icon color-primary"></span>
+                        <h5>Execução</h5>
+                        <p>Nesse estágio, a atenção se volta para a implementação prática das táticas de marketing digital que foram definidas nas fases anteriores. A execução bem-sucedida requer foco, comprometimento e a capacidade de se adaptar conforme necessário.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-md-4 col-lg-3">
                     <div class="single-promo single-promo-hover text-center gray-light-bg p-5 h-100">
                         <span class="ti-bar-chart icon-md icon color-primary"></span>
-                        <h5>Clientes lucrativos</h5>
-                        <p>Deseja expandir sua base de clientes? Isso requer uma maior visibilidade do seu trabalho. Com a utilização estratégica de anúncios online, é possível mostrar seu negócio para os clientes certos.</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-lg-4">
-                    <div class="single-promo single-promo-hover text-center gray-light-bg p-5 h-100">
-                        <span class="ti-headphone-alt icon-md icon color-primary"></span>
-                        <h5>Posicionamento Digital</h5>
-                        <p>Transforme suas redes sociais em uma vitrine contínua para sua empresa, compartilhando conteúdo que se conecta com as necessidades do seu público e reforça sua posição como especialista para solucioná-las.</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-lg-4">
-                    <div class="single-promo single-promo-hover text-center gray-light-bg p-5 h-100">
-                        <span class="ti-vector icon-md icon color-primary"></span>
-                        <h5>Estratégia</h5>
-                        <p>Com nossa expertise em estratégias online iremos te ajudar a fidelizar seus clientes e criar um negócio estável e duradouro.</p>
+                        <h5>Medição</h5>
+                        <p>Este pilar se concentra na avaliação do desempenho de suas estratégias e táticas de marketing digital, usando dados e métricas para entender o impacto e a eficácia de suas ações..
+                        </p>
                     </div>
                 </div>
             </div>
@@ -169,8 +176,8 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="about-content-left">
-                        <h2>Ajudamos a impulsionar o seu negócio </h2>
-                        <p class="lead">A Innoclick se destaca na criação de conexões impactantes entre marcas e clientes, resultando em conquistas mensuráveis que estimulam o progresso do seu negócio.</p>
+                        <h2>Por que sua empresa precisar estar na internet?</h2>
+                        <p class="lead">Quem não marca presença no mundo digital hoje, não somente corre o risco de perder espaço para a concorrência, mas pior, ver seu negócio simplesmente desaparecer.</p>
 
                         <div class="single-feature my-4">
                             <div class="d-flex align-items-center mb-2">
@@ -203,13 +210,10 @@
              style="background: url('images/hero-bg-4.jpg')no-repeat center center / cover">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-md-9 col-lg-8">
-                    <div class="text-center mb-5 text-white">
-                        <h2 class="text-white">Increase More Traffic Your Business?</h2>
-                        <p class="lead">Credibly redefine high-payoff web services after holistic experiences. Dramatically enable go forward cross-platform scenarios vis-a-vis diverse markets.</p>
-                    </div>
-                    <div class="video-promo-content mt-4 text-center">
-                        <a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="popup-youtube video-play-icon d-inline-block"> </a>
+                <div class="col-md-12 col-lg-12">
+                    <div class="text-center text-white">
+                        <h2 class="text-white">Como é o acompanhamento da Innoclick?</h2>
+                        <p class="lead">Queremos sempre nossos parceiros o mais próximos possíveis de nós e do projeto! Então além das reuniões de alinhamento e do grupo exclusivo no WhatsApp para acompanhamento do projeto, utilizaremos Dashboards para que você tenha total visão de tudo o que está acontecendo no seu negócio. Cada painel é personalizado em cima das necessidades e objetivos do seu negócio.</p>
                     </div>
                 </div>
             </div>
@@ -305,15 +309,9 @@
              style="background: url('images/hero-bg-2.jpg')no-repeat center center / cover fixed">
         <div class="container">
             <div class="row align-items-center justify-content-around">
-                <div class="col-md-8 col-lg-8">
-                    <div class="call-to-action-content text-white">
-                        <h2 class="text-white mb-1">AgencyCo It's easier than you think.</h2>
-                        <p>Progressively deliver market-driven quality vectors rather than goal-oriented niche markets.</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-lg-4">
-                    <div class="call-to-action-btn text-md-right text-lg-right text-sm-left">
-                        <a href="#" target="_blank" class="btn solid-btn"> Buy AgencyCo <span>$14</span></a>
+                <div class="col-md-12 col-lg-8">
+                    <div class="call-to-action-content">
+                        <h4 class="text-white">Entendemos que cada negócio é único e possui necessidades específicas. Por isso, oferecemos soluções personalizadas que resolvem os problemas do seu negócio de forma significativa.</h4>
                     </div>
                 </div>
             </div>
@@ -330,12 +328,12 @@
                 </div>
                 <div class="col-md-6">
                     <div class="contact-us-form white-bg rounded p-5">
-                        <h4>Ready to get started?</h4>
+                        <h4>Receber contato da Innoclick</h4>
                         <form action="#" method="POST" id="contactForm1" class="contact-us-form" novalidate="novalidate">
                             <div class="form-row">
                                 <div class="col-12">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" name="name" placeholder="Digiete seu nome" required="required">
+                                        <input type="text" class="form-control" name="nome" placeholder="Digiete seu nome" required="required">
                                     </div>
                                 </div>
                                 <div class="col-12">
@@ -345,12 +343,7 @@
                                 </div>
                                 <div class="col-12">
                                     <div class="form-group">
-                                        <input type="tel" class="form-control" name="email" placeholder="Digite seu telefone" required="required">
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <textarea name="message" id="message" class="form-control" rows="7" cols="25" placeholder="Escreva sua mensagem"></textarea>
+                                        <input type="tel" class="form-control" name="telefone" id="telefone-footer" placeholder="Digite seu telefone" required="required">
                                     </div>
                                 </div>
                                 <div class="col-sm-12 mt-3">
@@ -436,6 +429,8 @@
 <script src="js/owl.carousel.min.js"></script>
 <!--validator js-->
 <script src="js/validator.min.js"></script>
+<!-- Imask -->
+<script src="js/imask.js"></script>
 <!--custom js-->
 <script src="js/scripts.js"></script>
 </body>
