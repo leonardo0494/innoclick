@@ -91,8 +91,8 @@
                     <div class="hero-content-left text-white mt-lg-0 mt-md-0 mt-5">
                         <!-- <h1 class="text-white lead-head">Impulsione Seu Negócio com Estratégias Digitais de Alto Impacto</h1>
                         <p class="lead">A presença digital é mais do que uma necessidade; é a chave para se destacar, construir relacionamentos duradouros com seus clientes e garantir a continuidade do seu negócio.</p> -->
-                        <h1 class="text-white lead-head">Impulsione Seu Negócio com Estratégias Digitais de Alto Impacto através do Método P4: Planejamento, Criação, Execução e Medição.</h1>
-                        <p class="lead">Muito além de anúncios online, nosso objetivo é implementar estratégias que irão fazer o seu negócio escalar. Nosso foco é planejar, criar, executar e medir ideias para acelerar o crescimento do seu negócio de forma consistente em curto, médio e longo prazo.</p>
+                        <h1 class="text-white lead-head">Impulse seu negócio com estratégias digitais utilizando o Método 4P</h1>
+                        <p class="lead">Através do poder do mundo digital iremos alavancar consistentemente o crescimento do seu negócio a curto, médio e longo prazo.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-5">
@@ -130,7 +130,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-md-9">
                     <div class="section-heading text-center mb-5">
-                        <h2>O que é o Método P4?</h2>
+                        <h2>O que é o Método 4P?</h2>
                     </div>
                 </div>
             </div>
@@ -139,30 +139,28 @@
                     <div class="single-promo single-promo-hover text-center gray-light-bg p-5 h-100">
                         <span class="ti-blackboard icon-md icon color-primary"></span>
                         <h5>Planejamento</h5>
-                        <p>O planejamento estratégico é a etapa inicial e crítica para definir a direção e os objetivos do seu projeto ou iniciativa de marketing digital. Iremos definir objetivos, análise seu público, pesquisar seus concorrentes e definir um cronograma.</p>
+                        <p>O planejamento estratégico define a direção, objetivos, análise de público, pesquisa de concorrentes e cronograma do projeto de marketing digital.</p>
                     </div>
                 </div>
                 <div class="col-md-6 mb-md-4 col-lg-3">
                     <div class="single-promo single-promo-hover text-center gray-light-bg p-5 h-100">
                         <span class="ti-ruler-pencil icon-md icon color-primary"></span>
                         <h5>Criação</h5>
-                        <p>Esse estágio se concentra na produção de materiais de marketing que atraiam e envolvam o público-alvo de maneira eficaz. O pilar da Criação transforma estratégias em conteúdo tangível e atraente, capacitando sua marca a se conectar com o público de maneira profunda e impactante.</p>
+                        <p>O estágio de Criação produz materiais de marketing atraentes que conectam e envolvem o público-alvo de forma profunda.</p>
                     </div>
                 </div>
                 <div class="col-md-6 mb-md-4 col-lg-3">
                     <div class="single-promo single-promo-hover text-center gray-light-bg p-5 h-100">
                         <span class="ti-settings icon-md icon color-primary"></span>
                         <h5>Execução</h5>
-                        <p>Nesse estágio, a atenção se volta para a implementação prática das táticas de marketing digital que foram definidas nas fases anteriores. A execução bem-sucedida requer foco, comprometimento e a capacidade de se adaptar conforme necessário.
-                        </p>
+                        <p>Nesse estágio, a atenção se volta para a implementação prática das táticas de marketing digital, exigindo foco, comprometimento e adaptação.</p>
                     </div>
                 </div>
                 <div class="col-md-6 mb-md-4 col-lg-3">
                     <div class="single-promo single-promo-hover text-center gray-light-bg p-5 h-100">
                         <span class="ti-bar-chart icon-md icon color-primary"></span>
                         <h5>Medição</h5>
-                        <p>Este pilar se concentra na avaliação do desempenho de suas estratégias e táticas de marketing digital, usando dados e métricas para entender o impacto e a eficácia de suas ações..
-                        </p>
+                        <p>Esse pilar avalia o desempenho das estratégias e táticas de marketing usando dados para medir impacto e eficácia.</p>
                     </div>
                 </div>
             </div>
@@ -181,17 +179,17 @@
 
                         <div class="single-feature my-4">
                             <div class="d-flex align-items-center mb-2">
-                                <span class="ti-bar-chart rounded mr-3 icon primary-bg text-white"></span>
-                                <h5 class="mb-0">Otimização de SEO </h5>
+                                <span class="ti-world rounded mr-3 icon primary-bg text-white"></span>
+                                <h5 class="mb-0">Esteja mais presente para seus clientes</h5>
                             </div>
-                            <p>Alcance os primeiros resultados nos mecanismos de busca. Com as técnicas de Search Engine Optimization seu site irá promover uma melhor experiência do usuário, gerando mais autoridade e credibilidade.</p>
+                            <p>Ao todo, 70% de brasileiros utilizam a rede online. É preciso criar uma estratégia que consiga fortalecer a imagem do seu negócio. A melhor parte é que o marketing digital te dá a chance de segmentar as suas publicações, ou seja, você consegue se comunicar apenas com as pessoas que você sabe que possuem mais chances de se converterem ao status de cliente.</p>
                         </div>
                         <div class="single-feature my-4">
                             <div class="d-flex align-items-center mb-2">
-                                <span class="ti-layout-media-left-alt rounded mr-3 icon primary-bg text-white"></span>
-                                <h5 class="mb-0">Marketing social</h5>
+                                <span class="ti-medall-alt rounded mr-3 icon primary-bg text-white"></span>
+                                <h5 class="mb-0">Destaque-se frente a concorrência</h5>
                             </div>
-                            <p>Com um planejamento estratégico de campanhas e anúncios, seu negócio atingirá o público-alvo ideal nos canais mais assertivos, maximizando a geração de leads altamente qualificados e otimizando o seu ROI.</p>
+                            <p>A internet é hoje o principal meio de informação do espectador. É lá que ele busca conhecer as marcas, produtos e serviços. A internet é a fonte de pesquisa mais utilizada atualmente. Esteja a frente com estruturas bem montadas para ganhar vantagem frente ao concorrente e destacar a sua marca no mercado.</p>
                         </div>
                     </div>
                 </div>
@@ -236,7 +234,7 @@
                 <div class="col-md-6 col-lg-6">
                     <div class="features-box p-4">
                         <div class="features-box-icon">
-                            <span class="ti-panel icon-md color-primary"></span>
+                            <span class="ti-pencil-alt icon-md color-primary"></span>
                         </div>
                         <div class="features-box-content">
                             <h5>Copywriting</h5>
@@ -247,7 +245,7 @@
                 <div class="col-md-6 col-lg-6">
                     <div class="features-box p-4">
                         <div class="features-box-icon">
-                            <span class="ti-thumb-up icon-md color-primary"></span>
+                            <span class="ti-image icon-md color-primary"></span>
                         </div>
                         <div class="features-box-content">
                             <h5>Design</h5>
@@ -258,7 +256,7 @@
                 <div class="col-md-6 col-lg-6">
                     <div class="features-box p-4">
                         <div class="features-box-icon">
-                            <span class="ti-mouse-alt icon-md color-primary"></span>
+                            <span class="ti-stats-up icon-md color-primary"></span>
                         </div>
                         <div class="features-box-content">
                             <h5>Gestão de Tráfego</h5>
@@ -269,7 +267,7 @@
                 <div class="col-md-6 col-lg-6">
                     <div class="features-box p-4">
                         <div class="features-box-icon">
-                            <span class="ti-timer icon-md color-primary"></span>
+                            <span class="ti-mobile icon-md color-primary"></span>
                         </div>
                         <div class="features-box-content">
                             <h5>Social Media</h5>
@@ -280,7 +278,7 @@
                 <div class="col-md-6 col-lg-6">
                     <div class="features-box p-4">
                         <div class="features-box-icon">
-                            <span class="ti-harddrives icon-md color-primary"></span>
+                            <span class="ti-rss icon-md color-primary"></span>
                         </div>
                         <div class="features-box-content">
                             <h5>Blog</h5>
@@ -291,7 +289,7 @@
                 <div class="col-md-6 col-lg-6">
                     <div class="features-box p-4">
                         <div class="features-box-icon">
-                            <span class="ti-cup icon-md color-primary"></span>
+                            <span class="ti-panel icon-md color-primary"></span>
                         </div>
                         <div class="features-box-content">
                             <h5>Retenção</h5>
